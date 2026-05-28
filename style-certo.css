@@ -1,0 +1,37 @@
+*{
+    margin: 0;
+}
+
+body{
+    display: flex;
+    justify-content: center;
+    background-color: rgb(36, 110, 110);
+    margin-top: 40px;
+}
+
+.coiso{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(139, 253, 190);
+    width: fit-content;
+    padding: 20px;
+    border-radius: 20px;
+    font-size: 40px;
+}
+
+.coiso p{
+    font-size: 25px;
+    width: 70%;
+    text-align: center;
+    /* background-color: aqua;    */
+}
+
+.coiso button{
+    font-size: 20px;
+    padding: 20px;
+    border-radius: 20px;
+    /* background-color: blue; */
+    /* border: none; */
+}
