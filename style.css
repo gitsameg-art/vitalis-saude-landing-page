@@ -197,12 +197,13 @@ header a:active{
 
 .conteiner-01 h1{
     /* font-family: "Goldman", sans-serif; */
-    width: 90%;
+    width: 80%;
     min-width: 200px;
     max-width: 400px;
     font-size: 32px;
     word-spacing: 10px;
-    padding: 5px;
+    padding: 5px;  
+    /* background-color: aqua; */
     text-align: center;
 }
 
