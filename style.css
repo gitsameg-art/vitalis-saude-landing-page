@@ -204,7 +204,8 @@ header a:active{
     word-spacing: 10px;
     padding: 5px;  
     /* background-color: aqua; */
-    text-align: center;
+    text-align: justify;
+        text-justify:distribute;
 }
 
 .conteiner-01 h2{
